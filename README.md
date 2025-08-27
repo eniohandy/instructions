@@ -1,37 +1,36 @@
 # Instruões Gerais
 ## Table of Contents
-1. [Repository Name](#repo_name)
-2. [Repository files structure](#repo_file_structure)
-3. [Recommendations for Improving Code Quality!](#recommendations_improving_code_quality)
-    1. [Basic Recommendations](#basic_recommendations)
-    2. [Flake8](#flake8)
-    3. [isort](#isort)
-    4. [Additional tips](#additional_tips)
-4. [Avoiding Unnecessary Complexity in Your Code](#unnecessary_complexity)
-4. [Final Considerations](#final_considerations)
-5. [Contact](#contact)
+1. [Sobre Docker](#docker)
+2. [Sobre Ollama](#ollama)
+3. [Sobre Webui - open webui](#webui)
+4. [Contact](#contact)
 
-
+<a name="docker"></a>
 1. Sobre Docker
+
+
+
+
+
+
+<a name="ollama"></a>
+2. Sobre Ollama
 
 ``` python
 docker compose exec ollama ollama pull smollm2:135m
-
 ```
 
 
-2. Sobre Ollama
 
 
-
-
+<a name="webui"></a>
 3. Sobre Webui (open-webui)
 
 
 
 
 
-<a name="repo_name"></a>
-fim
+<a name="contact"></a>
+me
 
 
