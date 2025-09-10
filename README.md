@@ -15,7 +15,9 @@
 
 
 <a name="ollama"></a>
-2. Sobre Ollama
+
+
+## 2. Sobre Ollama
 
 ``` python
 docker compose exec ollama ollama pull smollm2:135m
