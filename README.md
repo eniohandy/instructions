@@ -7,7 +7,7 @@
 <br><br>
 
 <a name="docker"></a>
-## Sobre Docker
+## 1. Sobre Docker
 
 
 
@@ -15,8 +15,6 @@
 
 
 <a name="ollama"></a>
-
-
 ## 2. Sobre Ollama
 
 ``` python
@@ -27,13 +25,14 @@ docker compose exec ollama ollama pull smollm2:135m
 
 
 <a name="webui"></a>
-3. Sobre Webui (open-webui)
+## 3. Sobre Webui (open-webui)
 
 
 
 
 
 <a name="contact"></a>
+## Contact
 me
 
 
